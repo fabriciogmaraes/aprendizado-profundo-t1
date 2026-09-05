@@ -44,8 +44,9 @@ Os três classificadores reproduziram bem as arquiteturas do artigo original, co
 - **Conversão para TensorFlow Lite** (`.tflite`): formato otimizado para mobile — cenário real de uso do Multiprova Corretor (app em React Native).
 
 ## Estrutura do repositório
+```
 ├── README.md
 └── tarefa1_playground_tensorflow.md
-
+```
 
 Os notebooks das Tarefas 2 e 3 estão hospedados no Google Colab (links acima).
